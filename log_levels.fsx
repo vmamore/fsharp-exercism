@@ -1,0 +1,1 @@
+let logMessage = "[ERROR]: Invalid operation"
